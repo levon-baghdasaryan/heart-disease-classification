@@ -1,1 +1,1 @@
-# heart-disease-classification
+# Heart disease classification problem using Scikit-Learn machine learning library.
